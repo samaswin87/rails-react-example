@@ -8,7 +8,7 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "^4.2.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
-    "fsevents": "^2.1.2",
+    "fsevents": "^2.3.2",
     "node-gyp": "^6.0.1",
     "node-pre-gyp": "^0.14.0",
     "prop-types": "^15.7.2",
